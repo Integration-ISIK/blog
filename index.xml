@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Integration</title>
+<link>https://blog.integrationfest.in/index.html</link>
+<atom:link href="https://blog.integrationfest.in/index.xml" rel="self" type="application/rss+xml"/>
+<description>ISI Integration Blog Series</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Sat, 02 Sep 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Blog Workflow Guide</title>
+  <dc:creator>Aman Das</dc:creator>
+  <link>https://blog.integrationfest.in/posts/blog-workflow-guide/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This tutorial will help you get started with contributing to <a href="https://blog.integrationfest.in">Integration Blog</a> series.</p>
+<section id="pre-requisites" class="level2">
+<h2 class="anchored" data-anchor-id="pre-requisites">Pre-Requisites</h2>
+<ul>
+<li><a href="https://drive.google.com">Google Drive</a></li>
+<li>Familiarity with <a href="https://rmarkdown.rstudio.com/authoring_basics.html">Markdown</a></li>
+</ul>
+</section>
+<section id="authoring" class="level2">
+<h2 class="anchored" data-anchor-id="authoring">Authoring</h2>
+<p>Author the blog post in markdown format.</p>
+</section>
+<section id="uploading" class="level2">
+<h2 class="anchored" data-anchor-id="uploading">Uploading</h2>
+<ul>
+<li>Open the <a href="https://drive.google.com/drive/folders/1do8dJdrgK-cOa02tDJueM7PoKuwKqT5M?usp=sharing">Google Drive</a> folder</li>
+<li>In the <a href="https://drive.google.com/drive/folders/18UgrebGacbEO7wlfrTRoqBttEIx-y3Fs?usp=drive_link">Blog Writups</a> subfolder, upload the Markdown <code>.md</code> file.</li>
+</ul>
+</section>
+<section id="publishing" class="level2">
+<h2 class="anchored" data-anchor-id="publishing">Publishing</h2>
+<ul>
+<li>Inform the Integration DIC team about the article, and request inclusion.</li>
+<li>The post would be added to the site soon.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>tutorial</category>
+  <category>DIC</category>
+  <guid>https://blog.integrationfest.in/posts/blog-workflow-guide/index.html</guid>
+  <pubDate>Sat, 02 Sep 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://blog.integrationfest.in/posts/blog-workflow-guide/cc-writing.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

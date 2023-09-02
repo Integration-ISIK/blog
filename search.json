@@ -1,30 +1,51 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Blog",
+    "objectID": "posts/blog-workflow-guide/index.html",
+    "href": "posts/blog-workflow-guide/index.html",
+    "title": "Blog Workflow Guide",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "This tutorial will help you get started with contributing to Integration Blog series."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "objectID": "posts/blog-workflow-guide/index.html#pre-requisites",
+    "href": "posts/blog-workflow-guide/index.html#pre-requisites",
+    "title": "Blog Workflow Guide",
+    "section": "Pre-Requisites",
+    "text": "Pre-Requisites\n\nGoogle Drive\nFamiliarity with Markdown"
+  },
+  {
+    "objectID": "posts/blog-workflow-guide/index.html#authoring",
+    "href": "posts/blog-workflow-guide/index.html#authoring",
+    "title": "Blog Workflow Guide",
+    "section": "Authoring",
+    "text": "Authoring\nAuthor the blog post in markdown format."
+  },
+  {
+    "objectID": "posts/blog-workflow-guide/index.html#uploading",
+    "href": "posts/blog-workflow-guide/index.html#uploading",
+    "title": "Blog Workflow Guide",
+    "section": "Uploading",
+    "text": "Uploading\n\nOpen the Google Drive folder\nIn the Blog Writups subfolder, upload the Markdown .md file."
+  },
+  {
+    "objectID": "posts/blog-workflow-guide/index.html#publishing",
+    "href": "posts/blog-workflow-guide/index.html#publishing",
+    "title": "Blog Workflow Guide",
+    "section": "Publishing",
+    "text": "Publishing\n\nInform the Integration DIC team about the article, and request inclusion.\nThe post would be added to the site soon."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This blog documents our tech stack for conducting the ISI Integration Fest 2024.\nIt serves as documentation for us, and inspiration for future Fest conductors."
+    "text": "This blog documents our tech stack for conducting the ISI Integration Fest.\nIt serves as documentation for us, and inspiration for future Fest conductors."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Blog Workflow Guide\n\n\n\n\n\n\n\ntutorial\n\n\nDIC\n\n\n\n\n\n\n\n\n\n\n\nSep 2, 2023\n\n\nAman Das\n\n\n\n\n\n\nNo matching items"
   }
 ]

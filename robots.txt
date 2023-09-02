@@ -1,1 +1,1 @@
-Sitemap: https://Aman9das.github.io/integration-2024-blog/sitemap.xml
+Sitemap: https://blog.integrationfest.in/sitemap.xml

@@ -1,8 +1,20 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "posts/**/*.*md"
 
 website:
   title: "Integration"
+  favicon: "_assets/logo.jpg"
+  description: "ISI Integration Blog Series"
+  site-url: https://blog.integrationfest.in
+  repo-url: https://github.com/Integration-ISIK/blog
+  repo-actions:
+    - source
+    - issue
+  twitter-card: true
   navbar:
     right:
       - about.qmd
@@ -10,12 +22,18 @@ website:
         href: https://github.com/Integration-ISIK
       - icon: house-fill
         href: https://integrationfest.in
+  page-footer:
+    left:
+      - text: Made with 🩵
+        href: https://quarto.org
+    right:
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme:
       dark: darkly
       light: flatly
     css: styles.css
-
 execute:
   freeze: auto

@@ -16,6 +16,6 @@ about:
 
 ---
 
-This blog documents our tech stack for conducting the ISI Integration Fest 2024.
+This blog documents our tech stack for conducting the ISI Integration Fest.
 
 It serves as documentation for us, and inspiration for future Fest conductors.

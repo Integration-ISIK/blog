@@ -1,0 +1,30 @@
+---
+title: Blog Workflow Guide
+author: Aman Das
+date: 2023-9-2
+image: cc-writing.jpg
+categories:
+  - tutorial
+  - DIC
+---
+
+This tutorial will help you get started with contributing to [Integration Blog](https://blog.integrationfest.in) series.
+
+## Pre-Requisites
+
+- [Google Drive](https://drive.google.com)
+- Familiarity with [Markdown](https://rmarkdown.rstudio.com/authoring_basics.html)
+
+## Authoring
+
+Author the blog post in markdown format.
+
+## Uploading
+
+- Open the [Google Drive](https://drive.google.com/drive/folders/1do8dJdrgK-cOa02tDJueM7PoKuwKqT5M?usp=sharing) folder
+- In the [Blog Writups](https://drive.google.com/drive/folders/18UgrebGacbEO7wlfrTRoqBttEIx-y3Fs?usp=drive_link) subfolder, upload the Markdown `.md` file.
+
+## Publishing
+
+- Inform the Integration DIC team about the article, and request inclusion.
+- The post would be added to the site soon.

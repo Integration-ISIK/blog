@@ -1,0 +1,21 @@
+@import 'colors.scss';
+
+/*-- scss:defaults --*/
+
+$navbar-bg: $headerbar_bg;
+
+$body-bg: $window_bg;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans&display=swap');
+
+// custom subheader color
+.quarto-title-banner {
+  background: $subheader_bg;
+  color: $color_white;
+}
+
+#quarto-header, .quarto-title-banner {
+  font-family: "Inria Sans", Helvetica, Sans-Serif;
+}

@@ -32,7 +32,11 @@ website:
 format:
   html:
     theme:
-    - litera
-    - _assets/theme/default.scss
+      light:
+        - _assets/theme/light.scss
+        - litera
+      dark:
+        - _assets/theme/dark.scss
+        - litera
 execute:
   freeze: auto

@@ -1,10 +1,12 @@
 /*-- scss:defaults --*/
 
-$headerbar_bg: #111827;
+$headerbar_bg: if($variant == 'light', #111827, #000408);;
 
-$subheader_bg: #387BDB;
+$subheader_bg: if($variant == 'light', #387BDB, #1C1A28);;
 
-$window_bg: #C7F1F6;
+$window_bg: if($variant == 'light', #C7F1F6, #292841);;
 
+$color_white: #FEFEFE;
 $color_black: #000000;
-$color_white: #FFFFFF;
+
+$text_color: if($variant == 'light', $color_black, $color_white);

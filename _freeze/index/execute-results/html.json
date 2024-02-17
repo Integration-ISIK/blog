@@ -1,0 +1,15 @@
+{
+  "hash": "469c8945092c83ae4d9f182609af8ddf",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Blog\"\nlisting:\n  contents: posts\n  sort: \"date desc\"\n  type: default\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  feed: true\npage-layout: full\ntitle-block-banner: true\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nTest\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

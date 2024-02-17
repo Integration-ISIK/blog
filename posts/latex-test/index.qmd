@@ -1,6 +1,7 @@
 ---
 title: "Latex Test"
 author: "Archisman Mukherjee"
+draft: true
 ---
 
 Test post with latex.
